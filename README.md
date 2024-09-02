@@ -1,1 +1,1 @@
-testing git access
+testing git access and sign commits
